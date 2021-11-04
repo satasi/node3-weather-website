@@ -1,4 +1,4 @@
-console.log('Client side js file is loaded')
+
 //we will work on client side js on this
 //we will explore fetch api
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
